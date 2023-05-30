@@ -1,0 +1,24 @@
+{
+  "name": "micro-fe",
+  "version": "1.0.0",
+  "description": "以下為「注意看 這個架站太狠了」課綱",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist",
+    "gh": "gh-pages"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sexyoung/micro-fe.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sexyoung/micro-fe/issues"
+  },
+  "homepage": "https://github.com/sexyoung/micro-fe#readme",
+  "dependencies": {
+    "gh-pages": "^5.0.0"
+  }
+}
